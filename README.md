@@ -1,5 +1,7 @@
 # slackverifier
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/andreswebs/slackverifier.svg)](https://pkg.go.dev/github.com/andreswebs/slackverifier)
+
 Go package to verify the authenticity of requests from Slack by validating their signatures and timestamps.
 
 ## Usage
